@@ -1,0 +1,325 @@
+[
+    {
+      "image": "/images/starry-night.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Vincent van Gogh", "Claude Monet", "Pablo Picasso", "Leonardo da Vinci"],
+      "correctAnswer": "Vincent van Gogh",
+      "funFact": "Vincent van Gogh painted 'The Starry Night' while in a mental asylum in Saint-Rémy-de-Provence, France."
+    },
+    {
+      "image": "/images/mona-lisa.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Leonardo da Vinci", "Raphael", "Michelangelo", "Titian"],
+      "correctAnswer": "Leonardo da Vinci",
+      "funFact": "The 'Mona Lisa' is known for her enigmatic expression, which is often described as mysterious or elusive."
+    },
+    {
+      "image": "/images/the-scream.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Edvard Munch", "Gustav Klimt", "Paul Cézanne", "Vincent van Gogh"],
+      "correctAnswer": "Edvard Munch",
+      "funFact": "'The Scream' represents the anxiety and existential dread of modern life."
+    },
+    {
+      "image": "/images/girl-with-a-pearl-earring.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Johannes Vermeer", "Rembrandt", "Jan van Eyck", "Caravaggio"],
+      "correctAnswer": "Johannes Vermeer",
+      "funFact": "The painting is sometimes referred to as the 'Mona Lisa of the North' due to its captivating depiction of the girl."
+    },
+    {
+      "image": "/images/guernica.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Pablo Picasso", "Georges Braque", "Juan Gris", "Fernand Léger"],
+      "correctAnswer": "Pablo Picasso",
+      "funFact": "'Guernica' is a powerful anti-war painting depicting the horrors of the Spanish Civil War."
+    },
+    {
+      "image": "/images/the-persistence-of-memory.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Salvador Dalí", "René Magritte", "Joan Miró", "Max Ernst"],
+      "correctAnswer": "Salvador Dalí",
+      "funFact": "'The Persistence of Memory' is famous for its melting clocks, symbolizing the fluidity of time."
+    },
+    {
+      "image": "/images/the-birth-of-venus.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Sandro Botticelli", "Leonardo da Vinci", "Raphael", "Caravaggio"],
+      "correctAnswer": "Sandro Botticelli",
+      "funFact": "The painting depicts the goddess Venus emerging from the sea on a shell, a symbol of beauty and love."
+    },
+    {
+      "image": "/images/american-gothic.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Grant Wood", "Edward Hopper", "Andrew Wyeth", "Norman Rockwell"],
+      "correctAnswer": "Grant Wood",
+      "funFact": "'American Gothic' is one of the most parodied images in art history, symbolizing rural American life."
+    },
+    {
+      "image": "/images/the-kiss.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Gustav Klimt", "Egon Schiele", "Oskar Kokoschka", "Henri Matisse"],
+      "correctAnswer": "Gustav Klimt",
+      "funFact": "'The Kiss' is known for its golden tones and intricate patterns, reflecting Klimt's unique style."
+    },
+    {
+      "image": "/images/las-meninas.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Diego Velázquez", "Francisco Goya", "El Greco", "Bartolomé Esteban Murillo"],
+      "correctAnswer": "Diego Velázquez",
+      "funFact": "'Las Meninas' is celebrated for its complex composition and the way it plays with perspective."
+    },
+    {
+      "image": "/images/the-last-supper.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Leonardo da Vinci", "Raphael", "Michelangelo", "Titian"],
+      "correctAnswer": "Leonardo da Vinci",
+      "funFact": "'The Last Supper' captures the moment Jesus announces that one of his disciples will betray him."
+    },
+    {
+      "image": "/images/the-night-watch.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Rembrandt", "Peter Paul Rubens", "Diego Velázquez", "El Greco"],
+      "correctAnswer": "Rembrandt",
+      "funFact": "'The Night Watch' is famous for its dramatic use of light and shadow, a hallmark of Rembrandt's style."
+    },
+    {
+      "image": "/images/impression-sunrise.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Claude Monet", "Pierre-Auguste Renoir", "Édouard Manet", "Camille Pissarro"],
+      "correctAnswer": "Claude Monet",
+      "funFact": "'Impression, Sunrise' is the painting that gave the Impressionist movement its name."
+    },
+    {
+      "image": "/images/the-creation-of-adam.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Michelangelo", "Raphael", "Leonardo da Vinci", "Donatello"],
+      "correctAnswer": "Michelangelo",
+      "funFact": "'The Creation of Adam' is a fresco painting that forms part of the Sistine Chapel's ceiling."
+    },
+    {
+      "image": "/images/the-creation-of-eve.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Michelangelo", "Raphael", "Leonardo da Vinci", "Donatello"],
+      "correctAnswer": "Michelangelo",
+      "funFact": "It depicts the biblical creation narrative from the Book of Genesis."
+    },
+    {
+      "image": "/images/napoleon-crossing-the-alps.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Jacques-Louis David", "Jean-Auguste-Dominique Ingres", "Eugène Delacroix", "Édouard Manet"],
+      "correctAnswer": "Jacques-Louis David",
+      "funFact": "'Napoleon Crossing the Alps' is one of five versions created by David, commemorating Napoleon's campaign."
+    },
+    {
+      "image": "/images/the-third-of-may-1808.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Francisco Goya", "El Greco", "Diego Velázquez", "Bartolomé Esteban Murillo"],
+      "correctAnswer": "Francisco Goya",
+      "funFact": "This painting commemorates Spanish resistance to Napoleon's armies during the Peninsular War."
+    },
+    {
+      "image": "/images/the-raft-of-the-medusa.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Théodore Géricault", "Eugène Delacroix", "Jean-Auguste-Dominique Ingres", "Francisco Goya"],
+      "correctAnswer": "Théodore Géricault",
+      "funFact": "'The Raft of the Medusa' depicts the aftermath of a contemporary French shipwreck."
+    },
+    {
+      "image": "/images/liberty-leading-the-people.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Eugène Delacroix", "Théodore Géricault", "Jacques-Louis David", "Jean-Auguste-Dominique Ingres"],
+      "correctAnswer": "Eugène Delacroix",
+      "funFact": "'Liberty Leading the People' commemorates the July Revolution of 1830 in France."
+    },
+    {
+      "image": "/images/the-death-of-marat.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Jacques-Louis David", "Jean-Auguste-Dominique Ingres", "Eugène Delacroix", "Francisco Goya"],
+      "correctAnswer": "Jacques-Louis David",
+      "funFact": "'The Death of Marat' is a representation of the murdered French revolutionary leader Jean-Paul Marat."
+    },
+    {
+      "image": "/images/the-school-of-athens.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Raphael", "Leonardo da Vinci", "Michelangelo", "Donatello"],
+      "correctAnswer": "Raphael",
+      "funFact": "'The School of Athens' is one of the most famous frescoes by the Italian Renaissance artist Raphael."
+    },
+    {
+      "image": "/images/the-last-judgment.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Sandro Botticelli"],
+      "correctAnswer": "Michelangelo",
+      "funFact": "'The Last Judgment' is a fresco by Michelangelo, executed on the altar wall of the Sistine Chapel."
+    },
+    {
+      "image": "/images/the-garden-of-earthly-delights.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Hieronymus Bosch", "Pieter Bruegel the Elder", "Albrecht Dürer", "Hans Holbein the Younger"],
+      "correctAnswer": "Hieronymus Bosch",
+      "funFact": "'The Garden of Earthly Delights' is one of the most famous works by the Dutch artist Hieronymus Bosch."
+    },
+    {
+      "image": "/images/the-treachery-of-images.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["René Magritte", "Salvador Dalí", "Joan Miró", "Max Ernst"],
+      "correctAnswer": "René Magritte",
+      "funFact": "'The Treachery of Images' is famous for its inscription 'Ceci n'est pas une pipe,' meaning 'This is not a pipe.'"
+    },
+    {
+      "image": "/images/the-swing.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Jean-Honoré Fragonard", "Élisabeth Vigée Le Brun", "Jacques-Louis David", "François Boucher"],
+      "correctAnswer": "Jean-Honoré Fragonard",
+      "funFact": "'The Swing' is one of the most famous Rococo paintings, known for its playful and romantic themes."
+    },
+    {
+      "image": "/images/olympia.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Édouard Manet", "Gustave Courbet", "Jean-Auguste-Dominique Ingres", "Paul Cézanne"],
+      "correctAnswer": "Édouard Manet",
+      "funFact": "'Olympia' caused a scandal when it was first exhibited, due to its modern depiction of a nude woman."
+    },
+    {
+      "image": "/images/the-bathers.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Paul Cézanne", "Édouard Manet", "Gustave Courbet", "Pierre-Auguste Renoir"],
+      "correctAnswer": "Paul Cézanne",
+      "funFact": "'The Bathers' is a series of paintings by Cézanne, considered pivotal to the transition from 19th-century art to modernism."
+    },
+    {
+      "image": "/images/the-fighting-temeraire.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["J.M.W. Turner", "John Constable", "William Blake", "Thomas Gainsborough"],
+      "correctAnswer": "J.M.W. Turner",
+      "funFact": "'The Fighting Temeraire' was voted the greatest painting in a British art gallery in a 2005 BBC poll."
+    },
+    {
+      "image": "/images/the-gleaners.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Jean-François Millet", "Gustave Courbet", "Honoré Daumier", "Camille Corot"],
+      "correctAnswer": "Jean-François Millet",
+      "funFact": "'The Gleaners' depicts peasant women gleaning a field of stray grains of wheat after the harvest."
+    },
+    {
+      "image": "/images/the-arnolfini-portrait.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Jan van Eyck", "Hans Holbein the Younger", "Pieter Bruegel the Elder", "Albrecht Dürer"],
+      "correctAnswer": "Jan van Eyck",
+      "funFact": "'The Arnolfini Portrait' is notable for its complex iconography, ornate detail, and the use of a mirror in the background."
+    },
+    {
+      "image": "/images/whistlers-mother.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["James McNeill Whistler", "John Singer Sargent", "Thomas Eakins", "Mary Cassatt"],
+      "correctAnswer": "James McNeill Whistler",
+      "funFact": "'Whistler's Mother' is one of the most famous works by an American artist, often considered a Victorian Mona Lisa."
+    },
+    {
+      "image": "/images/nocturne-in-black-and-gold.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["James McNeill Whistler", "John Singer Sargent", "Winslow Homer", "Thomas Eakins"],
+      "correctAnswer": "James McNeill Whistler",
+      "funFact": "'Nocturne in Black and Gold' is famous for its depiction of a fireworks display and was at the center of a famous libel trial."
+    },
+    {
+      "image": "/images/christinas-world.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Andrew Wyeth", "Edward Hopper", "Grant Wood", "Georgia O'Keeffe"],
+      "correctAnswer": "Andrew Wyeth",
+      "funFact": "'Christina's World' depicts a woman crawling through a field, and is one of the best-known American paintings of the 20th century."
+    },
+    {
+      "image": "/images/house-by-the-railroad.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Edward Hopper", "Andrew Wyeth", "Grant Wood", "Georgia O'Keeffe"],
+      "correctAnswer": "Edward Hopper",
+      "funFact": "'House by the Railroad' is considered a classic example of Hopper's melancholy and desolate style."
+    },
+    {
+      "image": "/images/nighthawks.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Edward Hopper", "Andrew Wyeth", "Grant Wood", "Thomas Hart Benton"],
+      "correctAnswer": "Edward Hopper",
+      "funFact": "'Nighthawks' is one of the most recognizable American paintings, depicting a late-night diner scene."
+    },
+    {
+      "image": "/images/the-birth-of-venus.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Sandro Botticelli", "Leonardo da Vinci", "Raphael", "Michelangelo"],
+      "correctAnswer": "Sandro Botticelli",
+      "funFact": "The painting depicts the goddess Venus emerging from the sea on a shell, a symbol of beauty and love."
+    },
+    {
+      "image": "/images/venus-of-urbino.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Titian", "Giorgione", "Raphael", "Leonardo da Vinci"],
+      "correctAnswer": "Titian",
+      "funFact": "'Venus of Urbino' is a classic example of the Renaissance's fascination with the female nude."
+    },
+    {
+      "image": "/images/las-meninas.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Diego Velázquez", "Francisco Goya", "El Greco", "Bartolomé Esteban Murillo"],
+      "correctAnswer": "Diego Velázquez",
+      "funFact": "'Las Meninas' is celebrated for its complex composition and the way it plays with perspective."
+    },
+    {
+      "image": "/images/the-hay-wain.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["John Constable", "J.M.W. Turner", "Thomas Gainsborough", "William Blake"],
+      "correctAnswer": "John Constable",
+      "funFact": "'The Hay Wain' is one of the most famous paintings of the English countryside, depicting a rural scene on the River Stour."
+    },
+    {
+      "image": "/images/the-grand-canal.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Canaletto", "Francesco Guardi", "Giovanni Bellini", "Giorgione"],
+      "correctAnswer": "Canaletto",
+      "funFact": "'The Grand Canal' is one of many paintings by Canaletto depicting Venice's iconic waterways."
+    },
+    {
+      "image": "/images/the-ninth-wave.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Ivan Aivazovsky", "Ilya Repin", "Vasily Vereshchagin", "Isaac Levitan"],
+      "correctAnswer": "Ivan Aivazovsky",
+      "funFact": "'The Ninth Wave' is considered Aivazovsky's most famous work, depicting a group of survivors clinging to the wreckage of a ship."
+    },
+    {
+      "image": "/images/the-black-square.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Kazimir Malevich", "Wassily Kandinsky", "Piet Mondrian", "Theo van Doesburg"],
+      "correctAnswer": "Kazimir Malevich",
+      "funFact": "'The Black Square' is one of the most iconic paintings of the Russian avant-garde and is considered a seminal work in abstract art."
+    },
+    {
+      "image": "/images/composition-viii.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Wassily Kandinsky", "Kazimir Malevich", "Piet Mondrian", "Theo van Doesburg"],
+      "correctAnswer": "Wassily Kandinsky",
+      "funFact": "'Composition VIII' is one of Kandinsky's most famous works, showcasing his innovative use of abstract forms and vibrant colors."
+    },
+    {
+      "image": "/images/broadway-boogie-woogie.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Piet Mondrian", "Kazimir Malevich", "Wassily Kandinsky", "Theo van Doesburg"],
+      "correctAnswer": "Piet Mondrian",
+      "funFact": "'Broadway Boogie Woogie' reflects Mondrian's fascination with the dynamic rhythm of New York City, where he lived in his later years."
+    },
+    {
+      "image": "/images/self-portrait-with-thorn-necklace.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Frida Kahlo", "Georgia O'Keeffe", "Tamara de Lempicka", "Diego Rivera"],
+      "correctAnswer": "Frida Kahlo",
+      "funFact": "Frida Kahlo often painted self-portraits that reflected her physical and emotional pain."
+    },
+    {
+      "image": "/images/die-grossen-blauen-pferde.jpg",
+      "questionText": "Who is the artist of this painting?",
+      "options": ["Franz Marc", "Wassily Kandinsky", "Paul Klee", "August Macke"],
+      "correctAnswer": "Franz Marc",
+      "funFact": "'Die grossen blauen Pferde' is one of Marc's most famous works, showcasing his use of vibrant color and abstract forms to depict animals."
+    }
+  ]
+  
